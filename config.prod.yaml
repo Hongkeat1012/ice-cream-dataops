@@ -37,7 +37,7 @@ variables:
       # EXternal Ids
       icapi_ds_external_id: hongkeat_loh8873_icapi_ds
       # Variables shared by modules
-      
+    
       icapi_ds_external_id: ds_icapi
       # Variables shared by modules
       scheduleHourly: 14 1 * * *
