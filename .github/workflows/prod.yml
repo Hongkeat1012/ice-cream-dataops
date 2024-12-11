@@ -38,6 +38,7 @@ jobs:
         working-directory: ./
         run: |
           poetry run cdf-tk build --env=prod
+          
       - name: "Deploy the package"
         working-directory: ./
         run: |
